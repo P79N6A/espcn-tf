@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b6e4085d-dd01-45ef-b6ff-3263cf22798f" name="serrie" url="http://mail.mnet2.com">
+        <fileTransfer host="mail.mnet2.com" port="36000" rootFolder="/data/serriezhang" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="36000" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
